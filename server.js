@@ -15,7 +15,7 @@ app.use(express.json());
 
 // middlewares
 app.use(cors({
-    origin: 'https://news-app-mocha-ten.vercel.app',  
+    origin: 'https://news-app-zeta-wheat.vercel.app',  
     credentials: true,  
 }));
 
